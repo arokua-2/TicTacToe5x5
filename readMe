@@ -2,5 +2,7 @@ An implementation of the tic tac toe game on a 5x5 board using Processing langua
 Player can choose to play against the computer, of which currently have only 1 difficulity as the computer moves are random, optimized to 
 choose best valid option against player, can be rescaled for larger path, via changing the size option in the code.
 Release version is default settings, in which screen background colors and the color of X and O can be change.
-Can also choose to play against another human, however this required to be on the same device
-Controls are by mouse
+Can also choose to play against another human, however this required to be on the same device.
+Controls are by mouse.
+
+Work created 2017 using the Processing language with 1 ultility Button class, and scalable drawings in regards to screen size.
